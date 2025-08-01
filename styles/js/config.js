@@ -16,8 +16,8 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  url: "https://proutum-ann.github.io/hearthoods-masterlist/",
+  description: `The official masterlist for the Hearthoods species!`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1fxaPWY-mhUSt-vIDgzegt3h9we2XGGA6Z1s4pZpcggs",
 
   pages: {
     masterlist:    "masterlist",
