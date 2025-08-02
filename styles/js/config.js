@@ -341,12 +341,6 @@ charadex.page.masterlist = {
     parameters: charadex.sheet.options.species,
   },
 
-  fauxFolder: {
-    toggle: true,
-    folderProperty: 'Subspecies',
-    parameters: charadex.sheet.options.subspecies,
-  },
-
   search: {
     toggle: true,
     filterToggle: true,
