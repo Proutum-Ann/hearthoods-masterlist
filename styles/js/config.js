@@ -47,7 +47,7 @@ charadex.sheet = {
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary'],
     species: ['All', 'Hearthood'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Hood', 'Ears', 'Paws', 'Limbs', 'Tails', 'Misc'],
+    traitTypes: ['All', 'Hood', 'Ears', 'Paws', 'Limbs', 'Tails', 'Misc', 'Mutation'],
     subspecies: ['All', 'Smoldanian', 'Omniscrawna', 'Looskedee', 'Novarian'],
 
   }
@@ -339,6 +339,12 @@ charadex.page.masterlist = {
     toggle: true,
     folderProperty: 'Species',
     parameters: charadex.sheet.options.species,
+  },
+
+  fauxFolder: {
+    toggle: true,
+    folderProperty: 'Subspecies',
+    parameters: charadex.sheet.options.subspecies,
   },
 
   search: {
