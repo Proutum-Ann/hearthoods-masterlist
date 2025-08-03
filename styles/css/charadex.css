@@ -314,7 +314,7 @@ a:active {
 
 .dropdown:hover .dropdown-menu,
 .dropdown-menu:hover {
-  display: block !important
+  display: block !important;
 }
 
 .navbar .dropdown-divider {
@@ -332,6 +332,7 @@ a:active {
 .dropdown-item:active {
   color: var(--cd-navbar-dropdown-link-color-hover) !important;
   background-color: var(--cd-navbar-dropdown-background-hover) !important;
+  border-radius: var(--cd-navbar-dropdown-border-radius);
 }
 
 .navbar .dropdown-header {
